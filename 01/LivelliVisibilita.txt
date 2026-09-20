@@ -1,0 +1,9 @@
+In java ogni metodo ha un suo livello di visibilità cioè:
+chi può vedere quel metodo o quella determinata cosa
+
+LIVELLI:
+
+- protected - visibile da classi dello stesso package + sottoclassi anche se in altri package
+- public - visibile da tutti
+- private - visibile solo nel file in cui si trova
+- default - visibile fino al package in cui si trova
